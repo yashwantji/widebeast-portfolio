@@ -220,7 +220,7 @@ function Home() {
         <h3 className="text-3xl font-bold mb-6 text-cyan-300">Contact</h3>
 
         <p className="text-gray-400">Email: yashwant5082@gmail.com</p>
-        <p className="text-gray-400">Phone: +91 9868375082</p>
+
 
         <Button className="mt-6 border border-cyan-400 text-cyan-300 hover:bg-cyan-400/10 hover:scale-105 transition">
           <Mail className="mr-2"/> Send Message

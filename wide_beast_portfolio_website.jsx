@@ -137,7 +137,7 @@ export default function WideBeastPortfolio() {
       <section className="p-10 text-center">
         <h3 className="text-3xl font-bold mb-6">Contact</h3>
         <p>Email: yashwant5082@gmail.com</p>
-        <p>Phone: +91 9868375082</p>
+        {/* <p>Phone: +91 9868375082</p> */}
         <Button className="mt-4"><Mail className="mr-2"/> Send Message</Button>
       </section>
 
